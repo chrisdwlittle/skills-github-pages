@@ -1,5 +1,5 @@
 ---
 title: Test site
-**test** *test*
+*test*
 ---
 
